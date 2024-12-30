@@ -1,6 +1,6 @@
 # Minimalistic sum types and switches for Lua
 
-How? Via the `tag` function.
+How? With a tagging function.
 
 A minimal usage example:
 
